@@ -1,4 +1,4 @@
-[gd_scene load_steps=5 format=3 uid="uid://d2jq2r5hb1ajk"]
+[gd_scene format=3 uid="uid://d2jq2r5hb1ajk"]
 
 [ext_resource type="Script" path="res://scenes/ui/card_pile_view.gd" id="1_b4itw"]
 [ext_resource type="PackedScene" uid="uid://trmdo65td4t7" path="res://scenes/ui/card_menu_ui.tscn" id="1_yhny2"]

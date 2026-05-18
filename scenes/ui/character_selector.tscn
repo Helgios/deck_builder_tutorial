@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://d2f6dhxp12xvl"]
+[gd_scene format=3 uid="uid://d2f6dhxp12xvl"]
 
 [ext_resource type="Script" path="res://scenes/ui/character_selector.gd" id="1_lqh53"]
 [ext_resource type="Resource" uid="uid://bd874b0h1q8n1" path="res://scenes/run/run_startup.tres" id="2_rlyfg"]

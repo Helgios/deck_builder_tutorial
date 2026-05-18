@@ -1,4 +1,4 @@
-[gd_scene load_steps=7 format=3 uid="uid://b362c35jf6fmy"]
+[gd_scene format=3 uid="uid://b362c35jf6fmy"]
 
 [ext_resource type="Theme" uid="uid://c8cqncsqlplyu" path="res://main_theme.tres" id="1_hiimn"]
 [ext_resource type="StyleBox" uid="uid://b4b3e0d14kvmi" path="res://scenes/card_ui/card_base_stylebox.tres" id="2_nvr8g"]

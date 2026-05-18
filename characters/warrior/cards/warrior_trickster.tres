@@ -1,4 +1,4 @@
-[gd_resource type="Resource" load_steps=4 format=3 uid="uid://cjmd5p8y455xc"]
+[gd_resource type="Resource" format=3 uid="uid://cjmd5p8y455xc"]
 
 [ext_resource type="Texture2D" uid="uid://bi6pfjs32f820" path="res://art/tile_0101.png" id="1_huvsc"]
 [ext_resource type="AudioStream" uid="uid://k8m4o3hlwm7l" path="res://art/enemy_block.ogg" id="2_bd85j"]
